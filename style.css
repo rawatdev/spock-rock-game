@@ -89,6 +89,11 @@ h2 {
   margin-top: 20px;
 }
 
+/* Confetti */
+#confetti-canvas {
+  position: absolute;
+}
+
 /* Media Query: Large Smartphone (Vertical) */
 @media screen and (max-width: 600px) {
   .game-container {
